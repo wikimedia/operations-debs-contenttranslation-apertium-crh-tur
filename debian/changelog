@@ -1,0 +1,11 @@
+apertium-crh-tur (0.2.0~r81866-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 13 Sep 2017 19:22:11 +0530
+
+apertium-crh-tur (0.2.0~r81866-1) experimental; urgency=low
+
+  * Initial release
+
+ -- Tino Didriksen <tino@didriksen.cc>  Tue, 22 Aug 2017 19:41:31 +0200
