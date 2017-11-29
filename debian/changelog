@@ -1,3 +1,10 @@
+apertium-crh-tur (0.3.0~r83159-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Updated dependencies and watch file.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 29 Nov 2017 19:24:58 +0530
+
 apertium-crh-tur (0.2.0~r81866-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
