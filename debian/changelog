@@ -1,3 +1,9 @@
+apertium-crh-tur (0.3.0~r83159-1+wmf2) jessie-wikimedia; urgency=medium
+
+  * Depends on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 11 Dec 2017 11:05:37 +0530
+
 apertium-crh-tur (0.3.0~r83159-1+wmf1) jessie-wikimedia; urgency=low
 
   * New upstream release.
